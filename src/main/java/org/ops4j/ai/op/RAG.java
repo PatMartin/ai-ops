@@ -21,7 +21,7 @@ import dev.langchain4j.rag.content.retriever.EmbeddingStoreContentRetriever;
 import dev.langchain4j.service.AiServices;
 import dev.langchain4j.store.embedding.EmbeddingStoreIngestor;
 import dev.langchain4j.store.embedding.inmemory.InMemoryEmbeddingStore;
-import ex.Assistant;
+import org.ops4j.ai.Assistant;
 import lombok.Getter;
 import lombok.Setter;
 import picocli.CommandLine.Command;
